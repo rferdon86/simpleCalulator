@@ -1,0 +1,39 @@
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.SimpleCalculator.resources
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+E:\C#\Chapter 06\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.SimpleCalculator.resources
+E:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+F:\C#\Chapter 07\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+F:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+F:\C#\Chapter 07\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.SimpleCalculator.resources
+F:\C#\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.SimpleCalculator.resources
+C:\Users\Ryan\Desktop\PHSC\Fall2018\C#\Extra Exercises\Chapter 07\7-2\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
